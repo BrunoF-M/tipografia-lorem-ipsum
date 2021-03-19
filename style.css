@@ -1,0 +1,46 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-image: linear-gradient(orange 0%, white 55%, orange 100%);
+}
+
+h1 , h2 , h3 , h4 {
+    text-shadow: 4px 4px 0 rgb(253, 228, 5);
+    text-align: center;
+    text-decoration: underline rgb(238, 255, 0);
+}
+
+p {
+    font-size: 18px;
+}
+
+.pc1 {
+    color: rgb(126, 6, 72);
+}
+
+.pc2 , .pc4{
+    color: rgb(10, 126, 6);
+}
+
+.pc3 {
+    color: rgb(145, 9, 138);
+}
+
+      /*comentar é assim*/
+
+/* .pc4 {
+    color: rgb(3, 121, 3);
+} */
+
+.pc5 {
+    color: black;
+}
+
+/*fotos*/
+
+img {
+    display: block;
+    border: black 3px solid;
+    border-radius: 9.99%;
+    box-shadow: 10px 0px 10px 0px  rgb(102, 102, 102);
+    margin: 40px;
+}
